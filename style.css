@@ -20,25 +20,26 @@ h1{
   <!---
 define a altura do título principal
 --->
-    color:preto #C308A7;
-        
+    color:#000000
   <!---
 define a cor do título principal
---->
-  background-color:cinza  #EDC100;
+--->#483D8B
+  background-color: #6A5ACD 	
  <!---
 define a cor de fundo do título principal
---->
-  font-size:roxo 80px;
+--->#DDA0DD 	
+  font-size:80px;
    <!---
 define a altura do título principal
---->
-  font-style:preto italic;
+---> 
+  font-style:italic;
+  color: #000000;
  
 }
 h2{
-    Color:roxo   #D02C0F
+    Color: #A020F0
  <!---
 define a cor do segundo título
---->
-}
+--->,#00FA9A 
+        
+ 
