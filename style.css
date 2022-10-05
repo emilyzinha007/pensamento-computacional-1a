@@ -4,42 +4,28 @@ body{
 
 }
 #Id
-<!---
-PARA CRIAR A ID USA #NOME DE IDENTIFICAÇÃO DA IMAGEM
----> piscicologia
+
 
 {
     width: 100%;
-  <!---
-quando utilizamos width : 100% deixamos a imagem escolhida com 100% de largura da tela, independente do tamanho da tela
---->
+ 
 }
 
 h1{
   height: 150px;
-  <!---
-define a altura do título principal
---->
-    color:#000000
-  <!---
-define a cor do título principal
---->#483D8B
-  background-color: #6A5ACD 	
- <!---
-define a cor de fundo do título principal
---->#DDA0DD 	
+ 
+   color:#000000;
+ 
+  background-color: #DDA0DD;	
+	
   font-size:80px;
-   <!---
-define a altura do título principal
----> 
+ 
   font-style:italic;
-  color: #000000;
+
  
 }
 h2{
-    Color: #A020F0
- <!---
-define a cor do segundo título
---->,#00FA9A 
+    Color:#00FA9A;
+}
         
  
